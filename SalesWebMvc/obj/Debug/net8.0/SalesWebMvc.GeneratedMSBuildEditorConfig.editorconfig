@@ -26,10 +26,6 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\gabri\OneDrive\Área de Trabalho\CURSO C#\SalesWebMvc\SalesWebMvc
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/gabri/OneDrive/Área de Trabalho/CURSO C\#/SalesWebMvc/SalesWebMvc/Views/Departments/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/gabri/OneDrive/Área de Trabalho/CURSO C\#/SalesWebMvc/SalesWebMvc/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
